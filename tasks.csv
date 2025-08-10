@@ -1,0 +1,12 @@
+id,task,description,status
+1,Add project structure,"Create directories such as src, tests, docs",TODO
+2,Develop sample projects,"Implement small scripts or libraries to showcase interests",TODO
+3,Learn supporting tools,"Explore version control workflows, testing frameworks, packaging",TODO
+4,Enhance README,"Include links to other repositories, published papers, or documentation",TODO
+5,Automate spell and style checks,"Integrate tools like markdownlint and proselint",TODO
+6,Add link verification,"Use tools to ensure external links remain valid",TODO
+7,Test documentation,"Verify code snippets with doctest or pytest",TODO
+8,Versioned documentation,"Adopt tools like Sphinx or MkDocs for versioning",TODO
+9,Set up pre-commit hooks,"Run formatting and linting locally before commits",TODO
+10,Establish review guidelines,"Create a documentation review checklist",TODO
+11,Sync CI configuration,"Update workflow files to match project requirements",TODO
